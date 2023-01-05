@@ -1,7 +1,7 @@
 o Student name: Sachin Dhar
 o Student number: 698080
 o Student class: IT1D
-o URL student GitHub website: https://sachindhar99.github.io/WEBSITE-FRAMEWORK/
+o URL student GitHub website: https://sachindhar99.github.io/webmarkup-final/
 o URL student GitHub repository: https://github.com/sachindhar99/webmarkup-final
 
 o URL student GitHub repository: https://github.com/sachindhar99/Webmarkup--Assignment
